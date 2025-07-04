@@ -57,8 +57,8 @@ This project is composed of three independent services communicating over HTTP a
 
 ## 📈 Future Enhancements
 - API Gateway & Service Discovery using Spring Cloud
-- Kafka-based event streaming between services
-- Docker Compose orchestration
+- Order Service as a Mircroservice
+- Enhance monitoring with tools like Prometheus and Grafana.
 
 ---
 
