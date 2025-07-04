@@ -1,0 +1,9 @@
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/rahulkotha07/UserService.git
+[submodule "ProviderService"]
+	path = ProviderService
+	url = https://github.com/rahulkotha07/ProviderService1.git
+[submodule "EmailService"]
+	path = EmailService
+	url = https://github.com/rahulkotha07/EmailService.git
